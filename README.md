@@ -1,11 +1,14 @@
 # E-commerce-market-insights
 Project Description: This is an Exploratory Data Analysis (EDA) project evaluating a 4,370-item e-commerce marketplace dataset to uncover pricing dynamics, category performance metrics, and customer engagement drivers using Python, Pandas, and Seaborn.
 
-# Dataset Description: The dataset has 4,370 rows and 6 columns covering online marketplace products, their categories, and customer feedback. 
+# Dataset Description: 
+The dataset has 4,370 rows and 6 columns covering online marketplace products, their categories, and customer feedback. 
 
-# Technologies Used: Python, Pandas, NumPy, Matplotlib & Seaborn, Google Colab. 
+# Technologies Used: 
+Python, Pandas, NumPy, Matplotlib & Seaborn, Google Colab. 
 
-# Analysis Performed: Data Cleaning Process, Feature Analysis, Correlation Analysis, 12+ Visualizations.
+# Analysis Performed: 
+Data Cleaning Process, Feature Analysis, Correlation Analysis, 12+ Visualizations.
 
 # Key findings: 
 Low-to-mid price concentration: 75% of products are priced under $40, the median is $22.97, and the mean is $48.83. Most of the catalog is inexpensive items. 
