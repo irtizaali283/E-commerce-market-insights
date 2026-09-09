@@ -1,16 +1,16 @@
 # E-commerce-market-insights
 Project Description: This is an Exploratory Data Analysis (EDA) project evaluating a 4,370-item e-commerce marketplace dataset to uncover pricing dynamics, category performance metrics, and customer engagement drivers using Python, Pandas, and Seaborn.
 
-# Dataset Description: 
+Dataset Description: 
 The dataset has 4,370 rows and 6 columns covering online marketplace products, their categories, and customer feedback. 
 
-# Technologies Used: 
+Technologies Used: 
 Python, Pandas, NumPy, Matplotlib & Seaborn, Google Colab. 
 
-# Analysis Performed: 
+Analysis Performed: 
 Data Cleaning Process, Feature Analysis, Correlation Analysis, 12+ Visualizations.
 
-# Key findings: 
+Key findings: 
 Low-to-mid price concentration: 75% of products are priced under $40, the median is $22.97, and the mean is $48.83. Most of the catalog is inexpensive items. 
 
 Category volume: Fashion and Electronics lead: Women's Fashion 469 items, Electronics 385 items, and Automotive 375 items are the largest categories by item count. 
@@ -54,7 +54,8 @@ Price doesn't need to track quality: Price and rating are barely correlated, so 
 
 Bundle around Electronics and Home & Kitchen: These two categories get far more engagement than others 7,993,501 and 7,241,511 total reviews, driven partly by high-repeat items like batteries and bedding. Bundling accessories with products from these categories could be a reasonable way to increase what customers buy alongside them. 
 
-# Step-by-Step Guide to Run the Project
+Step-by-Step Guide to Run the Project
+
 Download the Dataset
 Locate the sales_raw_data.csv file in this repository.
 Click on the file and click Download to save a copy of it to your local computer.
